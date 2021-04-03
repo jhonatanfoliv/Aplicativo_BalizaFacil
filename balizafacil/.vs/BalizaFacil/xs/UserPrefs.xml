@@ -1,7 +1,12 @@
 ﻿<Properties StartupConfiguration="{7D569D7B-179C-42AF-BC5E-5C0B66DB1C0A}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="BalizaFacil/App.xaml.cs">
     <Files>
+<<<<<<< HEAD
       <File FileName="BalizaFacil/App.xaml.cs" Line="36" Column="14" />
+=======
+      <File FileName="BalizaFacil.Android/Services/Bluetooth/BluetoothService.cs" Line="63" Column="41" />
+      <File FileName="BalizaFacil/App.xaml.cs" Line="37" Column="47" />
+>>>>>>> 8a7229ea3b179ea679029a201c35d860dbf23b59
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,6 +15,14 @@
             <Node name="BalizaFacil" expanded="True">
               <Node name="App.xaml" expanded="True">
                 <Node name="App.xaml.cs" selected="True" />
+<<<<<<< HEAD
+=======
+              </Node>
+            </Node>
+            <Node name="BalizaFacil.Android" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Bluetooth" expanded="True" />
+>>>>>>> 8a7229ea3b179ea679029a201c35d860dbf23b59
               </Node>
             </Node>
             <Node name="BalizaFacil.Android" expanded="True" />
